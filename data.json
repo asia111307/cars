@@ -1,0 +1,166 @@
+{
+  "agreements": [
+    {
+      "agreementId": "RTVYBCHD4637F",
+      "type": "full",
+      "dateOfConclusion": "07.06.2021",
+      "dateOfRent":  "12.06.2021",
+      "numberOfDays": "3",
+      "receptionVenue": "siedziba firmy",
+      "status": "finished",
+      "dateOfReturn": "15.06.2021",
+      "mileageBefore": "120000" ,
+      "mileageAfter": "121000",
+      "fuelBefore": "45",
+      "fuelAfter": "45",
+      "client": {
+        "type": "private",
+        "name": "Karol Karolak",
+        "address": "Mickiewicza 2, 12-345 Kowólno",
+        "telephone": "667889536",
+        "discount":  "0",
+        "pesel": "96124657836"
+      },
+      "car": {
+        "vin": "VQCGW54378291O1123GB",
+        "mileage": "120000",
+        "pricePerDay": 500
+      },
+      "discount": "0",
+      "finalPrice": 1500
+    },
+    {
+      "agreementId": "QWERCHD463H7",
+      "type": "reservation",
+      "dateOfConclusion": "12.07.2021",
+      "dateOfRent":  "18.08.2021",
+      "numberOfDays": "1",
+      "receptionVenue": "siedziba firmy",
+      "client": {
+        "type": "company",
+        "name": "Janusz Software House",
+        "address": "Zółta 22/3, 11-315 Poznań",
+        "telephone": "778889536",
+        "discount":  "15",
+        "nip": "546124657836"
+      },
+      "car": {
+        "vin": "ERTY43782918765",
+        "mileage": "189000",
+        "pricePerDay": 400
+      },
+      "discount": "10",
+      "finalPrice": 306,
+      "advance": "50",
+      "dateOfAdvancePayment": "12.07.2021"
+    },
+    {
+      "agreementId": "MNBVCCHD4637F",
+      "type": "full",
+      "dateOfConclusion": "12.05.2021",
+      "dateOfRent":  "17.06.2021",
+      "numberOfDays": "3",
+      "receptionVenue": "siedziba firmy",
+      "status": "finished",
+      "dateOfReturn": "20.06.2021",
+      "mileageBefore": "350000" ,
+      "mileageAfter": "352500",
+      "fuelBefore": "52",
+      "fuelAfter": "55",
+      "client":      {
+        "type": "company",
+        "name": "Midnex Sp. z o.o",
+        "address": "Słowackiego 12, 42-345 Podwawele",
+        "telephone": "456689536",
+        "discount":  "0",
+        "nip": "1784657836"
+      },
+      "car": {
+        "vin": "654324378291O1123GB",
+        "mileage": "350000",
+        "pricePerDay": 350
+      },
+      "discount": "15",
+      "finalPrice": 892.5
+    },
+    {
+      "agreementId": "1265BCHD4637F",
+      "type": "full",
+      "dateOfConclusion": "07.06.2021",
+      "dateOfRent":  "20.07.2021",
+      "numberOfDays": "2",
+      "receptionVenue": "siedziba firmy",
+      "status": "in progress",
+      "mileageBefore": "312000" ,
+      "fuelBefore": "32",
+      "client":       {
+        "type": "private",
+        "name": "Marcin Żarski",
+        "address": "Słupkowa 26, 12-356 Mała Wieś koło Kowólna",
+        "telephone": "667881766",
+        "discount":  "0",
+        "pesel": "961457836"
+      },
+      "car": {
+        "vin": "VQCGW54378291O1123GB",
+        "mileage": "312000",
+        "pricePerDay": 500
+      },
+      "discount": "0",
+      "finalPrice": 1000
+    },
+    {
+      "agreementId": "6543BCHD463ABC",
+      "type": "full",
+      "dateOfConclusion": "13.06.2021",
+      "dateOfRent":  "13.07.2021",
+      "numberOfDays": "2",
+      "receptionVenue": "Parkowa 45, 69-345 Kostrzyn",
+      "status": "finished",
+      "dateOfReturn": "15.07.2021",
+      "mileageBefore": "222000" ,
+      "mileageAfter": "222500",
+      "fuelBefore": "22",
+      "fuelAfter": "20",
+      "client":       {
+        "type": "private",
+        "name": "Zuzanna Kowal",
+        "address": "Parkowa 45, 69-345 Kostrzyn",
+        "telephone": "154889536",
+        "discount":  "20",
+        "pesel": "99824657836"
+      },
+      "car": {
+        "vin": "VQCrt54378291O11113",
+        "mileage": "222000",
+        "pricePerDay": 250
+      },
+      "discount": "0",
+      "finalPrice": 400
+    },
+    {
+      "agreementId": "1265BCHDEV5F",
+      "type": "full",
+      "dateOfConclusion": "20.07.2021",
+      "dateOfRent":  "05.08.2021",
+      "numberOfDays": "2",
+      "receptionVenue": "siedziba firmy",
+      "status": "signed",
+      "client":       {
+        "type": "private",
+        "name": "Marcin Żarski",
+        "address": "Słupkowa 26, 12-356 Mała Wieś koło Kowólna",
+        "telephone": "667881766",
+        "discount":  "0",
+        "pesel": "961457836"
+      },
+      "car": {
+        "vin": "654324378291O1123GB",
+        "mileage": "352500",
+        "pricePerDay": 350
+      },
+      "discount": "10",
+      "finalPrice": 630
+    }
+  ]
+}
